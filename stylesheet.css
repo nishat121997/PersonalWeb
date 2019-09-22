@@ -1,0 +1,43 @@
+body{
+			background-color: #ecfcff;
+			color: #f9f9f9;
+	}
+h1,h2{
+			margin: 0px;
+			color: #394a6d;
+		}
+div{
+			margin: 0px;
+			padding: 10px;
+			width: 100%;
+		}
+
+hr{
+	border: none;
+	border-style: dotted;
+	color: #113f67;
+	height: 0px;
+	width: 5%;
+
+}
+
+
+.header{
+
+	background: #52de97;
+
+}
+
+.workExp{
+	background: #3c9d9b;
+}
+.workYear{
+	background: #e5b0ea;
+}
+.hobby{
+	background: #bd83ce;
+	font-
+}
+.cont{
+	background: #8186d5;height:600px;
+}
